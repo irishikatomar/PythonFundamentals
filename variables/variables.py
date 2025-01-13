@@ -1,2 +1,4 @@
 students_count = 1000
-print(students_count)
+rating = 4.99
+is_published = False
+print(student_count )

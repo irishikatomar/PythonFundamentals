@@ -7,5 +7,15 @@ Example:
 ```python
 city_name = "Meerut"  # storing data in variable
 print(city_name)
+
+total_population = 500000
+print(total_population)
+
+is_capital = False
+print(is_capital)
+
+area = 500.56
+print(area)
 ```
+
 
